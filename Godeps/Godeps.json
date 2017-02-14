@@ -1,0 +1,46 @@
+{
+	"ImportPath": "github.com/tony24681379/inu-golang-backend",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.11.0-33-g800b0fc",
+			"Rev": "800b0fc4a6cbf28a01d026ab54d6dec7050282fa"
+		},
+		{
+			"ImportPath": "github.com/araddon/gou",
+			"Rev": "0ab1e8f997e35d27da012072dc531fcc0204da5a"
+		},
+		{
+			"ImportPath": "github.com/bitly/go-hostpool",
+			"Rev": "d0e59c22a56e8dadfed24f74f452cea5a52722d2"
+		},
+		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/lytics/logrus",
+			"Comment": "v0.10.0-lytics-metafora-k8s-20160921a-40-g59cd2e4",
+			"Rev": "59cd2e4a569b4494d9196bef82f0784e467adac9"
+		},
+		{
+			"ImportPath": "github.com/mattbaird/elastigo/lib",
+			"Comment": "v1.0-344-g2fe47fd",
+			"Rev": "2fe47fd29e4b70353f852ede77a196830d2924ec"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Rev": "35136c09d8da66b901337c6e86fd8e88a1a255bd"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "9ff6c6923cfffbcd502984b8e0c80539a94968b7"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "7a6e5648d140666db5d920909e082ca00a87ba2c"
+		}
+	]
+}
